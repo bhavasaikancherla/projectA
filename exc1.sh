@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "SELECT ONE OF THE BELOW:";
-echo "1. List of users in your ubuntu box"
+echo "1. List of  the given users in your ubuntu box"
 echo "2. Kernel version"
 echo "3. Distribution name and version"
 echo "4. Identity of the user "
